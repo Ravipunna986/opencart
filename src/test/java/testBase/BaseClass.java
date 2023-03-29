@@ -60,7 +60,7 @@ public class BaseClass {
 	}
 @AfterClass(groups= {"Regression","Master","Sanity"})
 	public void teardown() {
-		driver.quit();
+		//driver.quit();
 	}
 	
 	public String randomString() {

@@ -46,3 +46,11 @@
 12:03:54.600 [main] INFO  testCases.TC_003_LoginDDT - ************Starting the test Case data Driven model**********
 12:03:55.712 [main] INFO  testCases.TC_003_LoginDDT - ***********finished test Case data Driven model**********
 12:03:55.715 [main] INFO  testCases.TC_003_LoginDDT - ************Starting the test Case data Driven model**********
+03:19:36.427 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegestrationTest - *** Started TC_001_AccountRegestrationTest **** 
+03:19:36.969 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestrationTest - *** Started TC_001_AccountRegestrationTest **** 
+03:19:37.093 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegestrationTest - Clicked on account
+03:19:37.138 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestrationTest - Clicked on account
+03:19:52.186 [TestNG-tests-3] INFO  testCases.TC_001_AccountRegestrationTest - log failed in exception block
+03:19:52.186 [TestNG-tests-3] ERROR testCases.TC_001_AccountRegestrationTest - Test failed
+03:20:07.241 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegestrationTest - log failed in exception block
+03:20:07.242 [TestNG-tests-2] ERROR testCases.TC_001_AccountRegestrationTest - Test failed

@@ -28,6 +28,7 @@ public void setLastName(String lastname) {
 	
 public void setEmail(String Email) {
 	txtemail.sendKeys(Email);
+
 }
 public void setPassword(String Password) {
 	txtpassword.sendKeys(Password);
